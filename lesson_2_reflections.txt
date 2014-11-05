@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-When I initialize a repository a folder is created with meta-data. You need to initialize a repository in order to track your changes in files.
+-When I initialize a repository a folder is created with meta-data. You need to initialize a repository in order to track your changes in files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-the staging area is different because it is an intermediate area letting you choose what files to commit.
+
