@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize a repository a folder is created with meta-data. You need to initialize a repository in order to track your changes in files.
