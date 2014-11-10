@@ -17,15 +17,15 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+	When this copy you can compare with your master to see if you would like to merge these changes with your master branch. You can also view the changes and the differences between files.   
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would collaborate using google drive and share my source code allowing it to be edited by the collaborator. It would be easier to make changes like this. It would also be harder to track changes unless the collaborator explicitly says where they made their changes.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+   When you are working on an experimental feature or when you are collaborating and are not sure if your partner will approve your changes.
 
